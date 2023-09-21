@@ -1,0 +1,150 @@
+
+{
+      "interfaces": [
+            {
+                  "id":1,
+                  "title": "Tel Karim appel entrant Lambda",
+                  "num_seq": "1925.2",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "05/09/2023",
+                  "type":"specific"
+            },
+            {
+                  "id":2,
+                  "title": "Tel Manon appel Karim",
+                  "num_seq": "1958.7",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "05/09/2023",
+                  "type":"specific"
+            },
+            {
+                  "id":3,
+                  "title": "Ordi police",
+                  "num_seq": "1857.1",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "06/09/2023",
+                  "type":"generic"
+            },
+            {
+                  "id":4,
+                  "title": "Ordi Roxane recherche",
+                  "num_seq": "1978.6",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "06/09/2023",
+                  "type":"specific"
+            },
+            {
+                  "id":5,
+                  "title": "Tel appel sortant Lambda",
+                  "num_seq": "1901.1",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "06/09/2023",
+                  "type":"generic"
+            },
+            {
+                  "id":6,
+                  "title": "Tablette app resto",
+                  "num_seq": "758.1",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "07/09/2023",
+                  "type":"generic"
+            },
+            {
+                  "id":7,
+                  "title": "Tel appel en cours Lucie",
+                  "num_seq": "1845.6",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "07/09/2023",
+                  "type":"specific"
+            },
+            {
+                  "id":8,
+                  "title": "Tel repertoire puis appel sortant Nathan",
+                  "num_seq": "1936.1tel",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "08/09/2023",
+                  "type":"specific"
+            },
+            {
+                  "id":9,
+                  "title": "Ordi procureur app bureau",
+                  "num_seq": "1987.9",
+                  "date_modif":"05/09/2023 - 16h02",
+                  "date": "08/09/2023",
+                  "type":"generic"
+            }
+      ],
+      "generic" : [
+            {
+                  "id": 1,
+                  "title": "police",
+                  "color": "#7dc248"
+            },
+            {
+                  "id": 2,
+                  "title": "musique",
+                  "color": "#0fb4d5"
+            },
+            {
+                  "id": 3,
+                  "title": "hôpital",
+                  "color": "#f69226"
+            },
+            {
+                  "id": 4,
+                  "title": "lycée",
+                  "color": "#bbcbd4"
+            },
+            {
+                  "id": 5,
+                  "title": "institut",
+                  "color": "#a67c51"
+            },
+            {
+                  "id": 6,
+                  "title": "infirmerie",
+                  "color": "#d64f27"
+            },
+            {
+                  "id": 7,
+                  "title": "camera",
+                  "color": "#b8c575"
+            },
+            {
+                  "id": 8,
+                  "title": "restau",
+                  "color": "#26b472"
+            },
+            {
+                  "id": 9,
+                  "title": "avocat",
+                  "color": "#54a4da"
+            }
+      ],
+      "notifications":[
+            {
+                  "id": 1,
+                  "date": "05/09/2023",
+                  "time": "00h12",
+                  "description": "box non connectée depuis le 05/09/2023 à 01h23"
+            },
+            {
+                  "id": 2,
+                  "date": "06/09/2023",
+                  "time": "09h47",
+                  "description": "box non connectée depuis le 05/09/2023 à 01h23"
+            },
+            {
+                  "id": 3,
+                  "date": "07/09/2023",
+                  "time": "15h23",
+                  "description": "box non connectée depuis le 05/09/2023 à 01h23"
+            },
+            {
+                  "id": 4,
+                  "date": "07/09/2023",
+                  "time": "17h01",
+                  "description": "box non connectée depuis le 05/09/2023 à 01h23"
+            }
+      ]
+}

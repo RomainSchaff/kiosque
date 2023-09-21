@@ -1,0 +1,35 @@
+/*********************************** RESPONSIVE *******************************/
+
+@media (min-width: 500px)
+{
+      #notif_innercontainer{
+            max-width: 500px;
+      }
+      .notif_box{
+            cursor: pointer;
+      }
+      #main_header_container{
+            max-width: 900px;
+      }
+      #main_content_container{
+            max-width: 900px;
+      }
+      #maincontent_sessionbox_infos{
+            flex-direction: row;
+      }
+      #maincontent_sessionbox_infos>p:nth-child(1){
+            margin-left: 3.5rem;
+      }
+      #maincontent_allresult_container::-webkit-scrollbar{
+            width: 5px;
+            background: gray;
+      }
+      #maincontent_allresult_container::-webkit-scrollbar-thumb{
+            background: rgb(41,41,41);
+      }
+      .generic_category_box{
+            max-width: 250px;
+            max-height: 170px;
+            cursor: pointer;
+      }
+}
